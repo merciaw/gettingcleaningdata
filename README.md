@@ -1,6 +1,8 @@
 # gettingcleaningdata
 for week 4 assignment
 
+
+
 STEP 0: PREPARATION (DOWNLOAD, UNZIP, READ TABLE)
 
 0.1 Create a "data" directory if it is not there yet.
